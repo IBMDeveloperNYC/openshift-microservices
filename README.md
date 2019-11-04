@@ -45,3 +45,5 @@ Congratulations on getting your microservice deployed! The steps that we took ar
 ## Wrap Up
 
 Thank you so much for following along with us. We hope you were able to learn and you found the information helpful. Please do  reach out if you have any questions. We'll see you soon!
+
+P.S. If you'd like to see a full application built in a method similar to what we've outlined above, check out the [Example Health App from IBM](https://github.com/IBM/example-health-jee-openshift) and the accompanying [code pattern series on IBM Developer])(https://developer.ibm.com/series/systems-example-health-series/).
